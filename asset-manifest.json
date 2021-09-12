@@ -1,21 +1,32 @@
 {
   "files": {
-    "main.css": "/cuet-demo2/static/css/main.27e7292b.chunk.css",
-    "main.js": "/cuet-demo2/static/js/main.39b51d67.chunk.js",
-    "main.js.map": "/cuet-demo2/static/js/main.39b51d67.chunk.js.map",
+    "main.css": "/cuet-demo2/static/css/main.23d9b560.chunk.css",
+    "main.js": "/cuet-demo2/static/js/main.22678b35.chunk.js",
+    "main.js.map": "/cuet-demo2/static/js/main.22678b35.chunk.js.map",
     "runtime-main.js": "/cuet-demo2/static/js/runtime-main.ae53f343.js",
     "runtime-main.js.map": "/cuet-demo2/static/js/runtime-main.ae53f343.js.map",
-    "static/js/2.2690c205.chunk.js": "/cuet-demo2/static/js/2.2690c205.chunk.js",
-    "static/js/2.2690c205.chunk.js.map": "/cuet-demo2/static/js/2.2690c205.chunk.js.map",
+    "static/js/2.5eb7cfd8.chunk.js": "/cuet-demo2/static/js/2.5eb7cfd8.chunk.js",
+    "static/js/2.5eb7cfd8.chunk.js.map": "/cuet-demo2/static/js/2.5eb7cfd8.chunk.js.map",
     "index.html": "/cuet-demo2/index.html",
-    "static/css/main.27e7292b.chunk.css.map": "/cuet-demo2/static/css/main.27e7292b.chunk.css.map",
-    "static/js/2.2690c205.chunk.js.LICENSE.txt": "/cuet-demo2/static/js/2.2690c205.chunk.js.LICENSE.txt",
-    "static/media/cuetlogo.6349adeb.png": "/cuet-demo2/static/media/cuetlogo.6349adeb.png"
+    "static/css/main.23d9b560.chunk.css.map": "/cuet-demo2/static/css/main.23d9b560.chunk.css.map",
+    "static/js/2.5eb7cfd8.chunk.js.LICENSE.txt": "/cuet-demo2/static/js/2.5eb7cfd8.chunk.js.LICENSE.txt",
+    "static/media/COVID-19-banner.08dc3004.jpg": "/cuet-demo2/static/media/COVID-19-banner.08dc3004.jpg",
+    "static/media/archi.2a6ce28f.jpg": "/cuet-demo2/static/media/archi.2a6ce28f.jpg",
+    "static/media/audi.29a96f3e.jpg": "/cuet-demo2/static/media/audi.29a96f3e.jpg",
+    "static/media/banner-2.9499e7b8.jpg": "/cuet-demo2/static/media/banner-2.9499e7b8.jpg",
+    "static/media/ce.e78e5b39.jpg": "/cuet-demo2/static/media/ce.e78e5b39.jpg",
+    "static/media/cuetlogo.6349adeb.png": "/cuet-demo2/static/media/cuetlogo.6349adeb.png",
+    "static/media/hum.7b1d2c6b.jpg": "/cuet-demo2/static/media/hum.7b1d2c6b.jpg",
+    "static/media/incubator.34a4ba9f.jpg": "/cuet-demo2/static/media/incubator.34a4ba9f.jpg",
+    "static/media/me.6da4a0c5.jpg": "/cuet-demo2/static/media/me.6da4a0c5.jpg",
+    "static/media/pme.5ecdc7b3.jpg": "/cuet-demo2/static/media/pme.5ecdc7b3.jpg",
+    "static/media/shadinota chottor.22f31a7b.jpg": "/cuet-demo2/static/media/shadinota chottor.22f31a7b.jpg",
+    "static/media/vc.33cdcde1.jpg": "/cuet-demo2/static/media/vc.33cdcde1.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.ae53f343.js",
-    "static/js/2.2690c205.chunk.js",
-    "static/css/main.27e7292b.chunk.css",
-    "static/js/main.39b51d67.chunk.js"
+    "static/js/2.5eb7cfd8.chunk.js",
+    "static/css/main.23d9b560.chunk.css",
+    "static/js/main.22678b35.chunk.js"
   ]
 }
